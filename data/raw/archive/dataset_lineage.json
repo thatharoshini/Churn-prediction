@@ -1,0 +1,12 @@
+[
+  {
+    "dataset_version": "v02",
+    "archive_file": "data/raw/archive/churn_v01.csv",
+    "source_file": "data/raw/new_churn.csv",
+    "new_data_hash": "0eb35ae7b184a85716fe0dee59fb93a1ee8bd119de898115d767f2b99671a7bc",
+    "previous_rows": 7043,
+    "new_rows": 100,
+    "current_rows": 7143,
+    "timestamp": "2026-11-01T08:20:59.001347+00:00"
+  }
+]
