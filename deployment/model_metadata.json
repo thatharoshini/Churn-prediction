@@ -2,9 +2,9 @@
     "model_name": "Telco_Churn_Production_Model",
     "model_version": "3",
     "model_stage": "Production",
-    "run_id": "a0c4d2557afb48ddbaf2567ab386f84b",
-    "model_source": "models:/m-01aeffb362ed495bbe7aef0b297bc0df",
-    "model_id": "m-01aeffb362ed495bbe7aef0b297bc0df",
+    "run_id": "645bbef339bd4826a80203745a4cc627",
+    "model_source": "models:/m-c3b4edd35f034e708a1171f84ef6eaa4",
+    "model_id": "m-c3b4edd35f034e708a1171f84ef6eaa4",
     "preprocessor_artifact": "preprocessing_pipeline/preprocessor.pkl",
     "source": "MLflow"
 }
